@@ -1,4 +1,4 @@
-#programa que diga si eres oven, adulto o abuelo
+print "programa que diga si eres oven, adulto o mayor de edad" 
 #entrada
 edad=input("ingrese su edad: ")
 #proceso
